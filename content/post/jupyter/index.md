@@ -7,7 +7,7 @@ authors:
 tags: ["jupyter"]
 categories: []
 date: "2019-02-05T00:00:00Z"
-featured: false
+featured: true
 draft: false
 
 # Featured image
