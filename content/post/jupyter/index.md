@@ -5,7 +5,7 @@ summary: Learn how to blog in Academic using Jupyter notebooks
 authors:
 - admin
 tags: ["jupyter"]
-categories: []
+categories: ["Work"]
 date: "2019-02-05T00:00:00Z"
 featured: true
 draft: false
