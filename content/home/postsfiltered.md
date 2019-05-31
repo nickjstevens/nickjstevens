@@ -23,15 +23,15 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "All"
-    category = "*"
+    tag = "*"
   
   [[content.filter_button]]
     name = "Work"
-    category = "Work"
+    tag = "Work"
   
   [[content.filter_button]]
     name = "home"
-    category = "Home"
+    tag = "Home"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
