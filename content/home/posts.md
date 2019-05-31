@@ -29,7 +29,26 @@ subtitle = ""
     category = ""
     publication_type = ""
     exclude_featured = false
+
   
+  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
+  filter_default = 0
+  
+  [[content.filter_button]]
+    name = "All"
+    category = "*"
+  
+  [[content.filter_button]]
+    name = "Work"
+    category = "Work"
+  
+  [[content.filter_button]]
+    name = "Home"
+    category = "Home"
+
+
+
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List

@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Babcock"
   company_url = ""
   location = "Devonport"
-  date_start = "2019-09-03"
+  date_start = "2018-09-03"
   date_end = ""
   description = """
   Responsibilities include:
@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Torpoint"
   date_start = "2016-01-01"
-  date_end = "2019-09-01"
+  date_end = "2018-09-01"
 
 [[experience]]
   title = "Consultant"
