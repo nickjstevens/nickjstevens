@@ -18,12 +18,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m a Chartered Mechanical Engineering with over 10 years experience in consultancy and engineering design.
+bio: I’m an engineer, trail runner, father, learner, teacher and dreamer.
 
 interests:
 - Systems Engineering
 - Finite Element Analysis
 - Seismic Analysis and Design
+- Trail and Fell Running
+- Learning and Developing
 
 education:
   courses:
@@ -45,6 +47,11 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/nick_j_stevens
+- icon: instagram
+  icon_pack: fab
+  link: https://instagram.com/nickjstevens
+
+
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -67,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Nick Stevens is the Assistant Chief Engineer within the Strategic Infrastructure business unit of Babcock International Group in Devonport. He is currently working establishing engineering design processes that are commensurate with the scale of major new facility design projects. 
+I’m the Assistant Chief Engineer within the Strategic Infrastructure business unit of Babcock International Group in Devonport. I’m currently working establishing engineering design processes that are commensurate with the scale of major new facility design projects and applying independent governance on technical outputs. My background is in finite element analysis, but more generally I am a problem solver, critical thinker and thought leader. I also have this website to share things I’ve learnt in engineering, finite element analysis, business and life. 
