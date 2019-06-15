@@ -20,7 +20,7 @@ draft: false
 image:
   caption: 'The ONE Thing by Gary W. Keller and Jay Papasan'
   focal_point: "Smart"
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
