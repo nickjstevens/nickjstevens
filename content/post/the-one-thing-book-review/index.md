@@ -19,7 +19,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   caption: 'The ONE Thing by Gary W. Keller and Jay Papasan'
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Projects (optional).
@@ -30,7 +30,6 @@ image:
 projects: []
 
 ---
-# The One Thing book review
 
 ## Introduction and Context
 
@@ -90,4 +89,4 @@ Be **accountable** not a victim of your own life. This is a very important conce
 
 ## Overall
 
-Overall I'd give this book **4/5** as an solid and motivational productivity book. Whilst a good listen as an audiobook don’t forget to check out the figures from the book at the book’s website. I’m still debating the value of audiobook listening on the go with the lower quality of notes. We’ll see how it goes. I have other books to add here shortly, from book and audiobook form.
+Overall I'd give this book **4/5** as a solid and motivational productivity book. Whilst a good listen as an audiobook don’t forget to check out the figures from the book at the book’s website. I’m still debating the value of audiobook listening on the go with the lower quality of notes. We’ll see how it goes. I have other books to add here shortly, from book and audiobook form.
