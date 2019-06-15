@@ -18,7 +18,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   caption: 'Barefoot running freedom'
-  focal_point: "Center"
+  focal_point: "Bottom"
   preview_only: false
 
 # Projects (optional).
