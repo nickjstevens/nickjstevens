@@ -1,36 +1,35 @@
+---
+title: 'The One Thing book review'
+subtitle: ''
+summary: 4/5 - An easy-to-read, impactful productivity book.
+authors:
+- admin
+tags:
+- productivity
+- book review
+categories:
+- Productivity
+date: "2019-06-12T00:00:00Z"
+lastmod: "2019-06-12T00:00:00Z"
+featured: false
+draft: false
 
-    ---
-    title: 'The One Thing book review'
-    subtitle: ''
-    summary: 4/5 - An easy-to-read, impactful productivity book.
-    authors:
-    - admin
-    tags:
-    - productivity
-    - book review
-    categories:
-    - Productivity
-    date: "2019-06-12T00:00:00Z"
-    lastmod: "2019-06-12T00:00:00Z"
-    featured: false
-    draft: false
-    
-    # Featured image
-    # To use, add an image named `featured.jpg/png` to your page's folder.
-    # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-    image:
-      caption: 'The ONE Thing by Gary W. Keller and Jay Papasan'
-      focal_point: ""
-      preview_only: false
-    
-    # Projects (optional).
-    #   Associate this post with one or more of your projects.
-    #   Simply enter your project's folder or file name without extension.
-    #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-    #   Otherwise, set `projects = []`.
-    projects: []
-    
-    ---
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  caption: 'The ONE Thing by Gary W. Keller and Jay Papasan'
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+
+---
 # The One Thing book review
 
 ## Introduction and Context
