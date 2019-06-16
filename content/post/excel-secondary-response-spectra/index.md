@@ -43,6 +43,12 @@ The acceleration time history can be arbitrary (i.e. the method is not limited t
 
 Here is the function for calculating secondary response spectra in Excel:
 
+```python
+# Example of code highlighting
+input_string_var = input("Enter some data: ")
+print("You entered: {}".format(input_string_var))
+```
+
 ```vb
 Function SRSFunction(ByVal timerange As Range, ByVal accelrange As Range, my_damping As Double, my_time_increment As Double, my_freq As Double, my_out As Integer)
 
