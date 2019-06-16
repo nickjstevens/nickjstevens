@@ -8,8 +8,8 @@ tags:
 - sketch note
 categories:
 - Productivity
-date: "2016-04-20T00:00:00Z"
-lastmod: "2019-04-17T00:00:00Z"
+date: "2019-06-16T00:00:00Z"
+lastmod: "2019-06-16T00:00:00Z"
 featured: true
 draft: false
 
@@ -19,7 +19,7 @@ draft: false
 image:
   caption: 'Image credit: Nick J Stevens'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -29,6 +29,8 @@ image:
 projects: []
 
 ---
+
+{{< figure src="featured.jpg" title="Image credit: Nick J Stevens" >}}
 
 In the vein of not doing invisible work (see the Tweet below that seeded this) I sketched out my “create, don’t consume” note. For knowledge workers it’s important to recognise when to consume content and when to create content. Writing is a natural outlet to allow knowledge to solidify, to identify connections, and to share experiences.
 
