@@ -50,7 +50,7 @@ Dim timearray, accelarray As Variant
 timearray = timerange.Value
 accelarray = accelrange.Value
 
-‘Calculate parameters
+‘ Calculate parameters
 Dim my_omega, my_Wd, my_beta, my_Au, my_Bu, my_Cu, my_Du, my_Av, my_Bv, my_Cv, my_Dv As Double
 Dim my_rows, i As Integer
 
