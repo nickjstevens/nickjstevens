@@ -43,7 +43,7 @@ The acceleration time history can be arbitrary (i.e. the method is not limited t
 
 Here is the function for calculating secondary response spectra in Excel:
 
-```VBA
+```VBScript
     Function SRSFunction(ByVal timerange As Range, ByVal accelrange As Range, my_damping As Double, my_time_increment As Double, my_freq As Double, my_out As Integer)
     
     Dim timearray, accelarray As Variant
@@ -151,7 +151,7 @@ So given an acceleration time history, we can generate secondary response spectr
 
 Here is the function for calculating the response of a single degree of freedom oscillator in Excel:
 
-```VBA
+```VBScript
     Function SDOFResponse(ByVal timerange As Range, ByVal accelrange As Range, my_damping As Double, my_time_increment As Double, my_freq As Double, my_time As Double, my_out As Integer)
     
     Dim timearray, accelarray As Variant
@@ -265,4 +265,4 @@ These functions have only been self-checked, so do your own verification before 
 
 The link to the attached spreadsheet below contains the two functions discussed above, with examples to show you how best to use the functions.
 
-[Excel-Secondary-Response-Spectra-Example-Spreadsheet.xlsm](Excel-Secondary-Response-Spectra-Example-Spreadsheet-bb8c9148-f88a-4f80-bc95-551c14649d47.xlsm)
+{{% staticref "files/Excel-Secondary-Response-Spectra-Example-Spreadsheet.xlsm" "newtab" %}}Excel-Secondary-Response-Spectra-Example-Spreadsheet.xlsm{{% /staticref %}}
