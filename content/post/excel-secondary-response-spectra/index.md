@@ -43,14 +43,14 @@ The acceleration time history can be arbitrary (i.e. the method is not limited t
 
 Here is the function for calculating secondary response spectra in Excel:
 
-```vbscript
+```vbs
 Function SRSFunction(ByVal timerange As Range, ByVal accelrange As Range, my_damping As Double, my_time_increment As Double, my_freq As Double, my_out As Integer)
 
 Dim timearray, accelarray As Variant
 timearray = timerange.Value
 accelarray = accelrange.Value
 
-‘ Calculate parameters
+'Calculate parameters
 Dim my_omega, my_Wd, my_beta, my_Au, my_Bu, my_Cu, my_Du, my_Av, my_Bv, my_Cv, my_Dv As Double
 Dim my_rows, i As Integer
 
@@ -82,7 +82,7 @@ ReDim maxU2(1 To my_rows)
 ReDim maxV2(1 To my_rows)
 ReDim maxA2(1 To my_rows)
 
-‘At time = zero, set to zero
+'At time = zero, set to zero
 maxU(1) = 0
 maxV(1) = 0
 maxA(1) = 0
@@ -90,7 +90,7 @@ maxU2(1) = 0
 maxV2(1) = 0
 maxA2(1) = 0
 
-‘now loop for remainer
+'now loop for remainer
 For i = 2 To my_rows
 maxU(i) = my_Au * accelarray(i – 1, 1) + my_Bu * accelarray(i, 1) + my_Cu * maxU(i – 1) + my_Du * maxV(i – 1)
 maxV(i) = my_Av * accelarray(i – 1, 1) + my_Bv * accelarray(i, 1) + my_Cv * maxU(i – 1) + my_Dv * maxV(i – 1)
@@ -154,7 +154,7 @@ Dim timearray, accelarray As Variant
 timearray = timerange.Value
 accelarray = accelrange.Value
 
-‘Calculate parameters
+'Calculate parameters
 Dim my_omega, my_Wd, my_beta, my_Au, my_Bu, my_Cu, my_Du, my_Av, my_Bv, my_Cv, my_Dv As Double
 Dim my_rows, i As Integer
 
@@ -186,7 +186,7 @@ ReDim maxU2(1 To my_rows)
 ReDim maxV2(1 To my_rows)
 ReDim maxA2(1 To my_rows)
 
-‘At time = zero, set to zero
+'At time = zero, set to zero
 maxU(1) = 0
 maxV(1) = 0
 maxA(1) = 0
@@ -194,7 +194,7 @@ maxU2(1) = 0
 maxV2(1) = 0
 maxA2(1) = 0
 
-‘now loop for remainer
+'now loop for remainer
 For i = 2 To my_rows
 maxU(i) = my_Au * accelarray(i – 1, 1) + my_Bu * accelarray(i, 1) + my_Cu * maxU(i – 1) + my_Du * maxV(i – 1)
 maxV(i) = my_Av * accelarray(i – 1, 1) + my_Bv * accelarray(i, 1) + my_Cv * maxU(i – 1) + my_Dv * maxV(i – 1)
