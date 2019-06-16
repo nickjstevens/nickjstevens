@@ -126,7 +126,7 @@ End Function
 
 To use the function you’ll need to add it to a module in VBA (Alt+F11). Here is a description of the function input parameters to type in a cell in the spreadsheet:
 
-`=**SRSFunction**(time range, acceleration range, damping ratio, time increment, frequency, output option)`
+`=SRSFunction(time range, acceleration range, damping ratio, time increment, frequency, output option)`
 
 Where:
 
@@ -230,7 +230,7 @@ End Function
 
 Here is a description of the function input parameters:
 
-`=**SDOFResponse**(time range, acceleration range, damping ratio, time increment, frequency, time, output option)`
+`=SDOFResponse(time range, acceleration range, damping ratio, time increment, frequency, time, output option)`
 
 Where:
 
