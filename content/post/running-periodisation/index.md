@@ -30,8 +30,6 @@ projects: []
 
 ---
 
-{{% toc %}}
-
 # General Theory of Periodisation
 
 1. Base building – improve aerobic fitness.
@@ -62,21 +60,13 @@ Based on all the reading I’ve done, this is my preferred approach to periodisa
 - Really think about the goal for each session and the weekly goal. Think about variety compared to the last session or the last week so that you are always building and progressing gradually.
 
 | Day | Workout | Mileage | Nutrition Notes | Exercise Notes |
-
 |-|-|-|-|-|
-
 | Monday | Aerobic Run | 4-8 | | Strides. Pull ups | 
-
 | Tuesday | Barefoot Run | 2-5 | Intermittent Fasting day | Press ups | 
-
 | Wednesday | Long Aerobic Run | 10-14 | | Plyometrics. Squats | 
-
 | Thursday | | | Intermittent Fasting day | Press ups. Foam rolling | 
-
 | Friday | MAF Test | 5-7 | | Strides. Plyometrics. Squats. Pull ups | 
-
 | Saturday | Long Run | 10-20 | First 2 hours in fasted state | |
-
 | Sunday | Barefoot Run | 2-5 | | |
 
 ### Strength (6 Weeks Duration, 13-7 Weeks Out)
@@ -98,21 +88,13 @@ Based on all the reading I’ve done, this is my preferred approach to periodisa
 - Maintain fast days, but start to dial in run nutrition with perhaps more carbohydrates. Maintain body composition.
 
 | Day | Workout | Mileage | Nutrition Notes | Exercise Notes |
-
 |------|------|------|------|------|
-
 | Monday | Tempo Run | 4-12 | For some longer tempo runs practice race nutrition | Squats. Pull ups | 
-
 | Tuesday | Barefoot Run | 2-4 | Intermittent Fasting day | Press ups | 
-
 | Wednesday | Speedwork | 6 | | Plyometrics | 
-
 | Thursday | | | Intermittent Fasting day | Press ups. Foam rolling |
-
 | Friday | MAF Test | 5-7 | | Strides. Pull ups |
-
 | Saturday | Long Run | 16-22 | Some runs in fasted state, some practicing race nutrition | | 
-
 | Sunday | Barefoot Run | 2-4 | | | 
 
 ### Rest Block (As required)
@@ -134,21 +116,13 @@ Based on all the reading I’ve done, this is my preferred approach to periodisa
 - Maintain fast days to maintain body composition.
 
 | Day | Workout | Mileage | Nutrition Notes | Exercise Notes |
-
 |------|------|------|------|------|
-
 | Monday | Tempo Run | 8-12 | For some longer tempo runs practice race nutrition | Squats (low volume). Pull ups |
-
 | Tuesday | Easy Run | 3 | Intermittent Fasting day | Press ups | 
-
 | Wednesday | Tempo Intervals, or Hilly Tempo Run | 6 | | Plyometrics |
-
 | Thursday | | | Intermittent Fasting day | Press ups. Foam rolling |
-
 | Friday | MAF Test | 5-7 | | Strides. Pull ups |
-
 | Saturday | Long Run (with strong finish) | 16-20 | Practising race nutrition | |
-
 | Sunday | Easy Run | 3 | | | 
 
 ### Taper (3 Weeks Duration, 0-3 Weeks Out)
@@ -178,14 +152,14 @@ Joe Friel outlines the following 12 week approach in his method ([The Fast Marat
 - 1 week include a standard tempo run, then half the volume of cruise intervals and downhill intervals.
 - 1 week, the last week, include a tempo run at marathon pace, but only of 20 mins and early in the week, everything else should be nice and easy.
 
-# **Arthur Lydiard**
+## Arthur Lydiard
 
 For a good read on Lydiard’s training methods, see [here](http://www.ultrunr.com/lydiard.html). Also [this pdf](https://drive.google.com/file/d/0B4-iLjzSb4dFZWlyeUliOU4zMW8/edit?usp=sharing) and [this pdf](https://drive.google.com/file/d/0B4-iLjzSb4dFaFdJZnp4RXFTNDg/edit?usp=sharing). Essentially, he recommends the following:
 
 - An extensive (as long as possible) base period, with only aerobic running (so very similar to Maffetone).
 - Then for about 12 weeks, gradually introduces strides / hill bounding, then time trials (so tempo / lactate runs), then power intervals, then more specific time trials.
 
-# **Phil Maffetone**
+## Phil Maffetone
 
 The Maffetone method is well-described [here](http://runlonger.blogspot.com/2008/07/interview-with-endurance-expert-dr.html) and [here](http://philmaffetone.com/home.cfm).
 
@@ -269,29 +243,19 @@ I prefer to train with heart rate, mainly because Devon is so hilly that pace be
 ### Maffetone
 
 | Maffetone | 
-
 |------|
-
 | Maffetone HR (180 - age) | 
 
 ### Joe Friel
 
 | Joe Friel | 
-
 |------|
-
 | Zone 1 (<85% of LT) |
-
 | Zone 2 (85-89% of LT |
-
 | Zone 3 (90-94% of LT |
-
 | Zone 4 (95-99% of LT |
-
 | Zone 5a (100-102% of LT) |
-
 | Zone 5b (103-106% of LT |
-
 | Zone 5c (>106% of LT |
 
 In summary, and simplified, these are my key heart rate training zones:
