@@ -60,7 +60,7 @@ Based on all the reading I’ve done, this is my preferred approach to periodisa
 - Really think about the goal for each session and the weekly goal. Think about variety compared to the last session or the last week so that you are always building and progressing gradually.
 
 | Day | Workout | Mileage | Nutrition Notes | Exercise Notes |
-|-|-|-|-|-|
+|------|------|------|------|------|
 | Monday | Aerobic Run | 4-8 | | Strides. Pull ups | 
 | Tuesday | Barefoot Run | 2-5 | Intermittent Fasting day | Press ups | 
 | Wednesday | Long Aerobic Run | 10-14 | | Plyometrics. Squats | 
