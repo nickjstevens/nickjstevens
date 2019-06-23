@@ -43,7 +43,7 @@ For non-standard sections, the complication integral formulas in Appendix A of S
 
 The magnitude of the warping normal stress at any particular point ‘s’ in the cross section is given by:
 
-$$\sigma_w = -EW_{ns}\phi''$$
+$$ \sigma_w = -EW_{ns}\phi'' $$
 
 Where
 
@@ -65,7 +65,7 @@ Once the angle of twist with distance along the member is calculated this data c
 
 From this, the normalised warping function $W_{ns}$ can be calculated as:
 
-$$W_{ns}=\sigma_w/(E*\phi'')ss
+$$ W_{ns}=\sigma_w/(E*\phi'') $$
 
 $\sigma_w$ is just the SZ stress in this case as there are no other stresses in the axial direction except this normal warping stress. We can also plot the normalised warping function as a User Defined Function in ANSYS, as shown below.
 
