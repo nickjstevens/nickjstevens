@@ -39,7 +39,7 @@ SCI P057 (Ref 1) provides an excellent reference for **warping and torsion of be
 
 ## Normalised Warping Function for Non-Standard Sections
 
-For non-standard sections, the complication integral formulas in Appendix A of SCI P057 are very hard to apply. This article suggests an alternative method using a simple finite element model under simple loading conditions to calculate the normalised warping function $W_{ns}$ and warping statical moment $S_{ws}$.
+For non-standard sections, the complication integral formulas in Appendix A of SCI P057 are very hard to apply. This article suggests an alternative method using a simple finite element model under simple loading conditions to calculate the normalised warping function $W\_{ns}$ and warping statical moment $S\_{ws}$.
 
 The magnitude of the warping normal stress at any particular point ‘s’ in the cross section is given by:
 
@@ -49,7 +49,7 @@ Where
 
 $W_{ns}$ is the normalised warping function at the particular point ‘s’ in the cross section.
 
-From this relationship we can construct a simple FE model where the warping normal stress, elastic modulus and second derivative of the angle of twist can be determined, leaving the unknown normalised warping function $W_{ns}$ to be calculated. The normalised warping function $W_{ns}$ is a function of the section, so after determining this from an FE model under simple loading it can now be used for more complicated loading.
+From this relationship we can construct a simple FE model where the warping normal stress, elastic modulus and second derivative of the angle of twist can be determined, leaving the unknown normalised warping function $W\_{ns}$ to be calculated. The normalised warping function $W\_{ns}$ is a function of the section, so after determining this from an FE model under simple loading it can now be used for more complicated loading.
 
 ## Methodology
 
@@ -71,7 +71,7 @@ $\sigma_w$ is just the SZ stress in this case as there are no other stresses in 
 
 {{< figure src="Untitled-828f7a88-ff54-4c99-859d-61806618e017.png" title="Normalised Warping Function" >}}
 
-Similarly we can take the third derivative of the angle of twist, and from this the warping statical moment $S_{ws}$ can be calculated. These are properties of the geometry of the section, but varying with position on the section. Now they have been derived from a simple load case, the normalised warping function $W_{ns}$ and warping statical moment $S_{ws}$ can be used for combined torsion and bending load cases using SCI P057.
+Similarly we can take the third derivative of the angle of twist, and from this the warping statical moment $S\_{ws}$ can be calculated. These are properties of the geometry of the section, but varying with position on the section. Now they have been derived from a simple load case, the normalised warping function $W\_{ns}$ and warping statical moment $S\_{ws}$ can be used for combined torsion and bending load cases using SCI P057.
 
 ## References
 
