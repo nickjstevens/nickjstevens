@@ -33,6 +33,8 @@ projects: []
 
 ## Warping and Torsion
 
+Test of a multiple inline latex $t$ and $x$.
+
 SCI P057 (Ref 1) provides an excellent reference for **warping and torsion of beams**. It contains useful formulas for standard I and channel sections. However, for non-standard sections, for example those built-up from a number of sections (like crane rail girders), it is difficult to obtain an analytical solution to the normalised warping function $W_{ns}$ and warping statical moment $S_{ws}$. These functions are required to calculate the warping normal stress and the warping shear stress respectively. The functions are based on the geometry of the section, but vary at any point on the section.
 
 {{< figure src="Untitled-259eca7a-c255-4d81-b7f2-ecb7cee80033.png" title="Warping Stresses" >}}
@@ -43,7 +45,7 @@ For non-standard sections, the complication integral formulas in Appendix A of S
 
 The magnitude of the warping normal stress at any particular point ‘s’ in the cross section is given by:
 
-$$ \sigma_w = -EW_{ns}\phi'' $$
+$$\sigma_w = -EW_{ns}\phi''$$
 
 Where
 
