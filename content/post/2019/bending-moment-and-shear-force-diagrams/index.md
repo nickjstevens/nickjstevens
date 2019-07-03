@@ -1,4 +1,4 @@
---
+---
 title: 'Bending Moment and Shear Force Diagrams for Solid Bodies in ANSYS Workbench'
 subtitle: ''
 summary: A script to calculate and plot bending moment diagrams for solid bodies in ANSYS
