@@ -33,5 +33,3 @@ projects: []
 I’m running on a rocky path, alone, across the moors. The trail turns steeply downhill and my mind is completely in the present. Focusing on each step. Not looking ahead or behind but fully in the present. There is no room in my mind for pondering the future or reflecting on the past; to do so would invite a misstep or trip. The world, my view, shrinks to focus on the ground in front of my feet - the granite rocks, the short grass, the small shoots of bracken. I’m so in tune with this ground. Dancing. Dancing over the textures. I am part of the terrain. In tune and in touch. Present. Aware and full of awareness.
 
 Running doesn’t define me - but it balances and centres me. It supports me, challenges me, leads to me to discoveries and insights, to calm and contentment. Running is breathing, breathing is life.
-
-![](featured.jpeg)
