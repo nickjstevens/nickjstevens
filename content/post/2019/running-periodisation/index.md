@@ -47,7 +47,7 @@ Based on all the reading I’ve done, this is my preferred approach to periodisa
 
 - Maffetone method only. Nothing of higher intensity, with the exception of strides which are excellent and won’t compromise your metabolism. Do a variety of distances, and vary the heart rate within the Zone 2 / Aerobic / Maffetone range.
 - Gradually build volume to around 50 miles per week. Must push volume to enable physiological adaptation – the “training effect”. Back to back long runs on the weekend is one way to do this.
-- Include [barefoot runs](https://nickjstevens.netlify.com/post/barefoot-running/) to improve form and lower leg strength.
+- Include [barefoot runs](https://nickjstevens.netlify.com/post/2019/barefoot-running/) to improve form and lower leg strength.
 - Incorporate fasted runs and fast days to improve fat adaptation and metabolic efficiency (fat burning).
 - No need to worry about specificity, so can do hilly off-road miles as base training for a flat, fast marathon. Best thing is to include a variety of speeds, hills, and running surface.
 - Include squats after long runs (the harder days), including one legged squats, squat and holds, and side raises. Must do these on harder run days, not on easy days (otherwise the easy days won’t be easy days!). To activate the vastus medialis, which is something I’ve struggled with in the past, do a full depth squat, or sitting leg contractions.

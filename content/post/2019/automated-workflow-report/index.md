@@ -30,7 +30,7 @@ projects: []
 
 ---
 
-Previously I posted about creating an automated analysis workflow using the concept of a [Directed Acyclic Graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph) (DAG). This is implemented using the Python package [snakemake](https://snakemake.readthedocs.io/en/stable/). The previous post on creating an analysis workflow can be found [here](https://nickjstevens.netlify.com/post/2019-06-snakemake-analysis-workflow-management/).
+Previously I posted about creating an automated analysis workflow using the concept of a [Directed Acyclic Graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph) (DAG). This is implemented using the Python package [snakemake](https://snakemake.readthedocs.io/en/stable/). The previous post on creating an analysis workflow can be found [here](https://nickjstevens.netlify.com/post/2019/snakemake-analysis-workflow-management/).
 
 This concept can be extended further by including an automated workflow report as part of the workflow. Writing a report is already implemented in [snakemake](http://snakemake.readthedocs.io/en/stable/tutorial/basics.html?highlight=report#step-6-writing-a-report), the benefit here to engineering simulation is that generally the output an analysis workflow is the collation and summarising of analysis results. Automating this means the entire workflow, from the analyses to the final report, is **reproducible**, plus **provenance** of the results presented in the report is ensured. This is a huge step forward, and eliminates the tedious and error-prone copy-pasting into Word documents that is the useful end point of finite element analyses.
 
