@@ -85,7 +85,7 @@ Take care of yourself first essentially, then do what matters, the plan ahead to
 
 ## Accountability
 
-Be **accountable** not a victim of your own life. This is a very important concept and covered in a much more motivating way in [Extreme Ownership](https://www.goodreads.com/book/show/23848190-extreme-ownership) by Navy SEALs Jocko Willink and Leif Babin. In summary, take accountability for everything in your life and start owning your life. 
+Be **accountable** not a victim of your own life. This is a very important concept and covered in a much more motivating way in [Extreme Ownership](https://www.goodreads.com/book/show/23848190-extreme-ownership) by Navy SEALs Jocko Willink and Leif Babin. I've captured my own notes on [Extreme Ownership here](https://nickjstevens.netlify.com/post/2019/extreme-ownership-book-review/).In summary, take accountability for everything in your life and start owning your life. 
 
 ## Overall
 
