@@ -34,37 +34,27 @@ This is a collection of my favourite motivational running clips from around the 
 
 ## Videos
 
-Haile Gebreselassie vs Paul Tergat in the 10,000 metres in Sydney - their faces say it all:
 
 {{< youtube 5D56ZAvcxN0 >}}
+Haile Gebreselassie vs Paul Tergat in the 10,000 metres in Sydney - their faces say it all
 
-A summary of Haile Gebreselassie's career:
 
 {{< youtube 6gXuOB-PxxE >}}
-
-Chris Solinsky breaks the American record in his first 10k. Amazing commentary:
-
-{{< youtube SgdFrUjKppQ >}}
-
-Dick and Rick Hoyt - if watching these guys doesn't make you cry nothing will. Unbelievable:
+A summary of Haile Gebreselassie's career
 
 {{< youtube dDnrLv6z-mM >}}
-
 {{< youtube Adubrj3yya8 >}}
-
-Even if you fall, get up:
+Dick and Rick Hoyt - if watching these guys doesn't make you cry nothing will. Unbelievable
 
 {{< youtube cM5A1K6TxxM >}}
-
 {{< youtube xjejTQdK5OI >}}
-
-A nice little video on the Copper Canyon Ultra Marathon, and quite moving too:
+Even if you fall, get up
 
 {{< youtube -bAeRSKiTUY >}}
-
-Never, ever give up:
+A nice little video on the Copper Canyon Ultra Marathon, and quite moving too
 
 {{< youtube kZlXWp6vFdE >}}
+Never, ever give up
 
 ## Quotes
 
@@ -102,6 +92,6 @@ Be brave, be strong
 
 **Belief** - the training has got you this far, now the belief will take you to the finish. You are stronger than you think you are.
 
-**Fly** - ****be efficient, flow, fly, remember that feeling of flying with no effort when you were young
+**Fly** - be efficient, flow, fly, remember that feeling of flying with no effort when you were young
 
 Think of a time when I felt unstoppable, that feeling of elation, achieving that goal. Pride. Visualise the finish line, the emotions, achieving the goal.
