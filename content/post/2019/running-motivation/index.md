@@ -36,35 +36,35 @@ This is a collection of my favourite motivational running clips from around the 
 
 Haile Gebreselassie vs Paul Tergat in the 10,000 metres in Sydney - their faces say it all:
 
-{{< [http://youtu.be/5D56ZAvcxN0](http://youtu.be/5D56ZAvcxN0) >}}
+{{< youtube 5D56ZAvcxN0 >}}
 
 A summary of Haile Gebreselassie's career:
 
-{{< [http://youtu.be/6gXuOB-PxxE](http://youtu.be/6gXuOB-PxxE) >}}
+{{< youtube 6gXuOB-PxxE >}}
 
 Chris Solinsky breaks the American record in his first 10k. Amazing commentary:
 
-{{< [http://youtu.be/SgdFrUjKppQ](http://youtu.be/SgdFrUjKppQ) >}}
+{{< youtube SgdFrUjKppQ >}}
 
 Dick and Rick Hoyt - if watching these guys doesn't make you cry nothing will. Unbelievable:
 
-{{< [http://youtu.be/dDnrLv6z-mM](http://youtu.be/dDnrLv6z-mM) >}}
+{{< youtube dDnrLv6z-mM >}}
 
-{{< [http://youtu.be/Adubrj3yya8](http://youtu.be/Adubrj3yya8) >}}
+{{< youtube Adubrj3yya8 >}}
 
 Even if you fall, get up:
 
-{{< [http://youtu.be/cM5A1K6TxxM](http://youtu.be/cM5A1K6TxxM) >}}
+{{< youtube cM5A1K6TxxM >}}
 
-{{< [https://youtu.be/xjejTQdK5OI](https://youtu.be/xjejTQdK5OI) >}}
+{{< youtube xjejTQdK5OI >}}
 
 A nice little video on the Copper Canyon Ultra Marathon, and quite moving too:
 
-{{< [http://youtu.be/-bAeRSKiTUY](http://youtu.be/-bAeRSKiTUY) >}}
+{{< youtube -bAeRSKiTUY >}}
 
 Never, ever give up:
 
-{{< [http://youtu.be/kZlXWp6vFdE](http://youtu.be/kZlXWp6vFdE) >}}
+{{< youtube kZlXWp6vFdE >}}
 
 ## Quotes
 
