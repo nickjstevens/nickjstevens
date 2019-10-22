@@ -205,7 +205,7 @@ Since sailing to the repair yard under careful monitoring may be considered as a
 Uncertainty Quantification (UQ)
 The parameters applied in the deterministic analysis contain uncertainty so each input value can be characterized by a distribution type with a mean value and a standard deviation. The input for UQ is presented in [Table 1](https://www.nafems.org/about/technical-working-groups/stochastics/challenge_problem/).
 ### The Challenge
-Applying stochastic methods, what is the probability that the imposed bending stress $σ_b$, exceeds the allowable yield stress $σ_{yield}$?
+Applying stochastic methods, what is the probability that the imposed bending stress $σ\_{b}$, exceeds the allowable yield stress $σ\_{yield}$?
 
 
 ```python
