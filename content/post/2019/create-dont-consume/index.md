@@ -32,6 +32,5 @@ projects: []
 
 {{< figure src="featured.jpg" title="Image credit: Nick J Stevens" >}}
 
-In the vein of not doing invisible work (see the Tweet below that seeded this) I sketched out my “create, don’t consume” note. For knowledge workers it’s important to recognise when to consume content and when to create content. Writing is a natural outlet to allow knowledge to solidify, to identify connections, and to share experiences.
+In the vein of not doing invisible work I sketched out my “create, don’t consume” note. For knowledge workers it’s important to recognise when to consume content and when to create content. Writing is a natural outlet to allow knowledge to solidify, to identify connections, and to share experiences.
 
-{{< tweet 1139538672968065026 >}}
