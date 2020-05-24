@@ -33,8 +33,8 @@ projects: []
 ---
 # Test Export for Hugo
 
-# Backlinks: 1
-# Links: 1
+NoBacklinks: 1
+NoLinks: 1
 Backlinks: https://www.notion.so/Exporting-from-Notion-015edf50a5e64655a3f2e5d142563dd5
 Created: May 24, 2020 5:32 PM
 Last Updated: May 24, 2020 5:40 PM
