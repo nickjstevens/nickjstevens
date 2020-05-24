@@ -1,7 +1,7 @@
 ---
 title: 'test'
 subtitle: ''
-summary: 
+summary: something something
 authors:
 - admin
 tags:
@@ -10,8 +10,8 @@ tags:
 - quote
 categories:
 - Productivity
-date: "2020-10-28T00:00:00Z"
-lastmod: "2020-10-28T00:00:00Z"
+date: "2020-05-20T00:00:00Z"
+lastmod: "2020-05-20T00:00:00Z"
 featured: true
 draft: false
 
@@ -31,16 +31,6 @@ image:
 projects: []
 
 ---
-# Test Export for Hugo
-
-NoBacklinks: 1
-NoLinks: 1
-Backlinks: https://www.notion.so/Exporting-from-Notion-015edf50a5e64655a3f2e5d142563dd5
-Created: May 24, 2020 5:32 PM
-Last Updated: May 24, 2020 5:40 PM
-Links: https://www.notion.so/Hugo-f840ae3993bd44bb9493363ff4bfe7d9
-Reference: https://www.notion.so/Fast-io-to-host-static-website-using-google-drive-e36146cffc6d4b36a2f1e25d206de7a7
-Type: Note
 
 This is a test page. 
 
