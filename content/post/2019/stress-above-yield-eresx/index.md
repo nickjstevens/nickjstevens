@@ -62,4 +62,4 @@ So the two figures below show the same analysis, one with default settings and t
 
 # Closing Remarks
 
-It goes without saying that disabling extrapolation should be done with care and whilst ensuring sufficient mesh refinement. One way to check if the is refined enough is to review [percentage stress error](https://nickjstevens.netlify.com/post/2019/ansys-percentage-stress-error/). Check out command `ERESX` and see if it can help you better understand and interact with your model.
+It goes without saying that disabling extrapolation should be done with care and whilst ensuring sufficient mesh refinement. One way to check if the is refined enough is to review [percentage stress error](https://nickjstevens.com/post/2019/ansys-percentage-stress-error/). Check out command `ERESX` and see if it can help you better understand and interact with your model.

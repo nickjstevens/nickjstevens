@@ -32,7 +32,7 @@ projects: []
 
 Mesh convergence is one of the cornerstones of engineering verification, and to provide users with the best tools I’m happy to launch my [Mesh Convergence Web App](https://5saa6uexu443lbp7.anvilapp.net/). It’s free, easy and addresses a hugely important aspect of simulation governance. 
 
-I've [previously written about the importance mesh convergence](https://nickjstevens.netlify.com/post/2019/richardson-extrapolation-and-grid-convergence/), and the first iteration provided an Excel spreadsheet to implement the Grid Convergence Index. The [web app](https://5saa6uexu443lbp7.anvilapp.net/) is one step closer to the user, running the code in the browser on almost any device. Simply enter the results (stresses, displacements, anything) from three different meshes, in order of coarsest to finest, and Calculate the predicted exact answer. There are some checks in place to warn the user if the results are problematic.
+I've [previously written about the importance mesh convergence](https://nickjstevens.com/post/2019/richardson-extrapolation-and-grid-convergence/), and the first iteration provided an Excel spreadsheet to implement the Grid Convergence Index. The [web app](https://5saa6uexu443lbp7.anvilapp.net/) is one step closer to the user, running the code in the browser on almost any device. Simply enter the results (stresses, displacements, anything) from three different meshes, in order of coarsest to finest, and Calculate the predicted exact answer. There are some checks in place to warn the user if the results are problematic.
 
 Here is a screenshot of the web app in action, providing an estimated exact answer, along with 95% Confidence Interval values.
 

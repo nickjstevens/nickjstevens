@@ -83,7 +83,7 @@ And the actual Code Snippet to create bending moment and shear force diagrams of
 ! =======================================
 ! Nick Stevens
 ! September 2016
-! [https://nickjstevens.netlify.com/](https://nickjstevens.netlify.com/)
+! [https://nickjstevens.com/](https://nickjstevens.com/)
 ! Thanks to SimuTech Group, in particular this article: http://www.simutechgroup.com/FEA/fea-tips-tricks-stress-linearization.html
 ! Stress resultants article: https://en.wikipedia.org/wiki/Stress_resultants
 
