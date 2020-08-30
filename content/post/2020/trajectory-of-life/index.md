@@ -9,7 +9,7 @@ tags:
 categories:
 - Family
 date: "2020-08-30T00:00:00Z"
-lastmod: "2020-8-30T00:00:00Z"
+lastmod: "2020-08-30T00:00:00Z"
 featured: true
 draft: false
 
